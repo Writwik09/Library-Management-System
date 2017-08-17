@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
+<title>LIBRARY MANAGEMENT SYSTEM</title>
 </head>
 <body>
 
@@ -12,7 +12,7 @@
         <meta name="keywords" content="" />
         <meta name="description" content="" />
         <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<title>Coffeelike | Designed by nodethirtythree + Templated.org</title>
+		<title>Silver Spring Library  | Designed by KIBROM TEKLE + Templated.org</title>
         <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css" />
         <link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css" />
         <link href="style.css" rel="stylesheet" type="text/css" />
@@ -23,28 +23,29 @@
 				<div id="header">
 					<div id="logo">
 						<h1>
-							<a href="#">LIBRARY MANAGEMENT</a>
+							<font size="20"><a href="#">LIBRARY MANAGEMENT</a></font>
 						</h1>
 					</div>
 					<div id="nav">
 						<ul>
 							<li class="first active">
-								<a href="#">Home</a>
+							<font size="4">	<a href="#">HOME</a></font>
 							</li>
 							<li>
-								<a href="#">Services</a>
+							<font size="4"><a href="AdminLogin.jsp">ADMINISTRATOR</a></font>	
+								
 							</li>
 							<li>
-								<a href="#">Portfolio</a>
+							<font size="4">	<a href="#">FACULTY</a></font>
 							</li>
 							<li>
-								<a href="#">About</a>
+							<font size="4">	<a href="#">STUDENT</a></font>
 							</li>
 							<li>
-								<a href="#">Blog</a>
+							<font size="4">	<a href="#">ABOUT</a></font>
 							</li>
 							<li class="last">
-								<a href="#">Contact</a>
+							<font size="4">	<a href="#">CONTACT</a></font>
 							</li>
 						</ul>
 						<br class="clear" />
@@ -53,7 +54,7 @@
 				<div id="main">
 					<div id="sidebar">
 						<h3>
-							Feugiat sem praesent
+							<font size="6">Public Library</font>
 						</h3>
 						<p>
 							Aliquam sed vulputate curabitur convallis dignissim. Phasellus sed convallis condimentum et amet
@@ -86,11 +87,11 @@
 					<div id="content">
 						<div id="box1">
 							<h2>
-								Welcome to Coffeelike
+								Welcome to LIBRARY
 							</h2>
-							<img class="left" src="http://www.medway.gov.uk/images/boys%20looking%20at%20book_v_Variation_3.jpg" width="130" height="160" alt="" />
+							<img class="left" src=https://media.bizj.us/view/img/6594482/silverspringlibrary0624201503-cx*750xx4928-2772-0-254.jpg />
 							<p>
-								This is <strong>Coffeelike</strong>, a two column CSS template by
+								This is <strong>SILVERSPRING LIBRARY</strong>, a two column CSS template by                   
 								<a href="http://nodethirtythree.com/">nodethirtythree</a> + <a href="http://templated.org/">Templated.org</a> with photos from 
 								<a href="http://www.pdphoto.org/">PDPhoto</a>. It's released (for free) under the
 								<a href="http://templated.org/license/">Creative Commons Attribution 3.0 license</a>,

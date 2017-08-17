@@ -34,7 +34,17 @@ public class Main extends HttpServlet {
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		// TODO Auto-generated method stub
+		  String username=request.getParameter("user");
+		  String password=request.getParameter("pass");
+		 BusinessLogic businessLogic=new BusinessLogic();
+		  boolean result=businessLogic.authenticate(username,password);
+		  if(result){
+			  response.sendRedirect("LibrarySupervison.jsp");
+		  }
+		  else{
+			  response.sendRedirect("AdminLogin.jsp");
+		  }
+		
 		doGet(request, response);
 	}
 
