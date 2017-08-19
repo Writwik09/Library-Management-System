@@ -36,7 +36,7 @@ public class Main extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		  String username=request.getParameter("user");
 		  String password=request.getParameter("pass");
-		 BusinessLogic businessLogic=new BusinessLogic();
+		 AdminBusinessLogic businessLogic=new AdminBusinessLogic();
 		  boolean result=businessLogic.authenticate(username,password);
 		  if(result){
 			  response.sendRedirect("LibrarySupervison.jsp");
