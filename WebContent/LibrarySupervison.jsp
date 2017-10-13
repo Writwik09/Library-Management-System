@@ -13,7 +13,7 @@
 							<font size="4">	<a href="index.jsp">HOME</a></font>
 							</li>
 							<li>
-							<font size="4"><a href="#">REGISTER MEMBERES</a></font>	
+							<font size="4"><a href="Registration.jsp">REGISTER MEMBERES</a></font>	
 								
 							</li>
 							<li>

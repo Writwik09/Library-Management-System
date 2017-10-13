@@ -1,4 +1,4 @@
-package com.kb;
+package org.kibromlj.lms.service;
 
 public class AdminBusinessLogic {
  public boolean authenticate(String username,String password){
