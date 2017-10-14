@@ -10,10 +10,14 @@
 <div id="nav">
 						<ul>
 							<li class="first active">
-							<font size="4">	<a href="index.jsp">HOME</a></font>
+						"/Users/user/Documents/projects/javaprojects/Library-Management-System"	<font size="4">	<a href="index.jsp">HOME</a></font>
 							</li>
 							<li>
-							<font size="4"><a href="Registration.jsp">REGISTER MEMBERES</a></font>	
+							<font size="4"><a href="RegisterStudent.jsp">REGISTER STUDENT</a></font>	
+								
+							</li>
+							<li>
+							<font size="4"><a href="RegisterFaculty.jsp">REGISTER FACULTY</a></font>	
 								
 							</li>
 							<li>
